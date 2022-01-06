@@ -107,6 +107,24 @@ color: red;
     margin-top: 10px;
     padding-top: 10px;
 }
+
+.developer{
+    width: 600px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 30%;
+    padding: 5%;
+    background-color: chocolate;
+}
+.developer img{
+    width: 300px;
+}
+.developer h3{
+color: crimson;
+}
+.developer p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .footer h1{
     color: rgb(209, 38, 8);
     font-size: 30px;

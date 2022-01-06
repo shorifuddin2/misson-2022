@@ -1,0 +1,122 @@
+body{
+    background-color: #d8c3c3;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(31, 30, 30);
+    font-size: 50px;
+    padding-left: 5px;
+ line-height: 30px;
+
+    
+    
+}
+.title-1 h1{
+    font-weight: lighter;
+    font-size:;
+    margin: 0;
+}
+h1 span{
+    color: rgb(194, 8, 240);
+}
+.title-1{
+    
+     border-left: 5px solid rgb(201, 26, 26);
+    padding-left:25px;
+
+    font-weight: lighter;
+    font-size: 400%;
+    margin: 0;
+    font-family:'Yeseva One';
+    border-left: 5px solid rgb(201, 26, 26);
+    padding-left:25px
+}
+.section{
+   display: flex;
+   margin: 10%;
+}
+.hup-with{
+    width: 50%;
+    padding: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.hup-with p{
+    color: slategray;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    padding: 5px;
+}
+
+.scroll{
+    margin-top: 30px;
+}
+.hup-with img{
+    width: 80%;
+  
+}
+
+.hup-with button{
+    background-color: rgb(224, 49, 5);
+    padding: 20px 30px;
+    border-radius: 5px;
+    color: seashell;
+}
+.hup-with button hover{
+background-color: rgb(124, 54, 124);
+color: red;
+}
+#misson-aria-1{
+    width: 30%;
+    margin: 2%;
+    background-color: rgb(128, 40, 128);
+    padding: 2%;
+    border-radius: 20px;
+}
+#misson-aria-2{
+    width: 30%;
+    margin: 2%;
+    background-color: rgb(136, 109, 22);
+    padding: 2%;
+    border-radius: 20px;
+}
+#misson-aria-3{
+    width: 30%;
+    margin: 2%;
+    background-color: violet;
+    padding: 2%;
+    border-radius: 20px;
+}
+.misson-aria img{
+    width: 100px;
+}
+.footer{
+    background-color: #000;
+    padding: 10px;
+    margin: 10px;
+    color: tomato;
+    text-align: center;
+    font-family:cursive;
+    
+}
+.m2022-1{
+    color: rgb(209, 38, 8);
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.footer h1{
+    color: rgb(209, 38, 8);
+    font-size: 30px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.footer span{
+color: white;
+}
+footer{
+    color: rgb(175, 171, 171);
+    padding: 10px;
+}

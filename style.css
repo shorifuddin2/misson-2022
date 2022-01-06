@@ -72,9 +72,18 @@ color: red;
 #misson-aria-1{
     width: 30%;
     margin: 2%;
-    background-color: rgb(128, 40, 128);
+    background-color: rgb(151, 35, 93);
     padding: 2%;
     border-radius: 20px;
+}
+#misson-aria-1 h3{
+color: rgb(224, 83, 18);
+}
+#misson-aria-2 h3{
+    color: deeppink;
+}
+#misson-aria-3 h3{
+    color: gold;
 }
 #misson-aria-2{
     width: 30%;
@@ -114,6 +123,7 @@ color: red;
     border-radius: 10px;
     margin-left: 30%;
     padding: 5%;
+    padding-bottom: 5%;
     background-color: chocolate;
 }
 .developer img{
